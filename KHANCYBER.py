@@ -122,7 +122,7 @@ try:
   
      ('.prox.txt','w').write(prox) 
   
-     (except Exception)
+     (Exception) 
   
 print('') 
   
