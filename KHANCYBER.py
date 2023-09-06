@@ -122,9 +122,9 @@ try:
   
      ('.prox.txt','w').write(prox) 
   
-   except Exception as e: 
+except Exception as e: 
   
-  print('') 
+print('') 
   
  prox=open('.prox.txt','r').read().splitlines() 
   
