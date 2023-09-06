@@ -122,13 +122,13 @@ try:
   
      ('.prox.txt','w').write(prox) 
   
-except Exception as e: 
+     (except Exception)
   
 print('') 
   
- prox=open('.prox.txt','r').read().splitlines() 
+     prox=open('.prox.txt','r').read().splitlines() 
   
- for xd in range(10000): 
+     for xd in range(10000): 
   
      a='Nokia' 
   
